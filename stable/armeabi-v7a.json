@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageId": "com.noir.app",
-  "versionName": "0.2.0",
-  "versionCode": 1003,
+  "versionName": "0.2.1",
+  "versionCode": 1004,
   "abi": "armeabi-v7a",
   "minSdk": 25,
-  "apkSize": 57036081,
-  "apkUrl": "https://github.com/raedmansour/noir-releases/releases/download/v0.2.0/NOIR-0.2.0-armeabi-v7a.apk",
-  "sha256": "8fda85c1d4f65d1c389aa7d77701335280245b86dbc06353bea9fc595fb02055"
+  "apkSize": 62597411,
+  "apkUrl": "https://github.com/raedmansour/noir-releases/releases/download/v0.2.1/NOIR-0.2.1-armeabi-v7a.apk",
+  "sha256": "edbd87c0727daf3248925839052ea19093ee7dfb059d898e39b2d6c9b159deb6"
 }
